@@ -1,0 +1,30 @@
+# Rust build artifacts
+/target/
+Cargo.lock
+**/*.rs.bk
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+Thumbs.db
+.directory
+
+# Dependency directories
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+GIT_COMMANDS.txt
+
+*.exe
+*.pdb
